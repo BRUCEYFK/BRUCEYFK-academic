@@ -41,9 +41,9 @@ education:
     - course: M.E. in Electrical Engineering
       institution: Donghua University
       year: 2019 - 2022
-    - course: B.E. in Electrical Engineering and Automation
-      institution: Huaqiao University
-      year: 2015 - 2019
+   # - course: B.E. in Electrical Engineering and Automation
+   # institution: Huaqiao University
+   # year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -52,22 +52,23 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:fkying@mail.dhu.edu.cn'
+    # link: '/#contact'
+  # - icon: twitter
+   # icon_pack: fab
+   # link: https://twitter.com/GeorgeCushen
+   # label: Follow me on Twitter
+   # display:
+   #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com.hk/citations?hl=zh-CN&user=4fYGbd8AAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/%E4%B8%B0%E7%B3%A0-%E5%BA%94-8143aa273/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
