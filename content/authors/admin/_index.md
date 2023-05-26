@@ -28,14 +28,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence
   - Robotics
-  - Information Retrieval
+  - Motion Planning
+  - Deep Reinforcement Learning
+  - Dexterous Manipulation
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: PhD in Integrative Sciences and Engineering
+      institution: National University of Singapore
+      year: 2023-present
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
