@@ -37,13 +37,13 @@ education:
   courses:
     - course: PhD in Integrative Sciences and Engineering
       institution: National University of Singapore
-      year: 2023-present
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2023 - present
+    - course: M.E. in Electrical Engineering
+      institution: Donghua University
+      year: 2019 - 2022
+    - course: B.E. in Electrical Engineering and Automation
+      institution: Huaqiao University
+      year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
