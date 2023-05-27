@@ -1,16 +1,18 @@
 ---
-title: "An example journal article"
+title: "Extensively Explored and Evaluated Actor-Critic With Expert-Guided Policy Learning and Fuzzy Feedback Reward for Robotic Trajectory Generation"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Huashan Liu
+- Rongxin Jiang
+- Menghua Dong
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+date: "2022-01-18T00:00:00Z"
+doi: "10.1109/TII.2022.3143611"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
