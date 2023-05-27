@@ -31,7 +31,7 @@ summary: This work implemented an IK-free trajectory planning scheme based on DR
 
 tags:
 - Source Themes
-featured: False
+featured: True
 
 # links:
 # - name: ""
