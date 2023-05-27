@@ -21,17 +21,17 @@ doi: "10.1109/TII.2022.3143611"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "IEEE Transactions on Industrial Informatics, 18(11):7749–7760"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Trajectory generation for redundant manipulators based on inverse kinematics (IK) still faces some restraints, as it lacks universal IK calculation or specific trajectory generation methods that are suitable for robots with arbitrary degrees of freedom. In this article, the IK-free trajectory generation for robot manipulators is formulated as a Markov decision process and implemented by a general method based on deep reinforcement learning. First, an extensively explored and evaluated actor-critic (E3AC) algorithm that can make diverse action explorations and comprehensive evaluations is designed to solve the trajectory generation problem. Second, a dual-memory structure with expert-guided policy learning strategy is proposed to further enhance the performance of the algorithm in the early training period by additional successful experiences and performing an increasingly unbiased data sampling. Third, a fuzzy feedback reward mechanism that can directly establish a mapping from the abundant state variables to the self-tuning reward is constructed, instead of puzzling out an explicit function to feature the complex relations among the control objects. Finally, the comparative experimental results show that, the proposed approach is more efficient in algorithm convergence and reward calculation, and is more qualified for complex tasks with strong randomness.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
-featured: false
+featured: True
 
 # links:
 # - name: ""
