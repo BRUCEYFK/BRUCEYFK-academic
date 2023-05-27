@@ -21,7 +21,7 @@ doi: "10.1109/TII.2022.3143611"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Industrial Informatics, 18(11):7749–7760"
+publication: "IEEE Transactions on Industrial Informatics, 18(11):7749–7760, 2022"
 publication_short: ""
 
 abstract: Trajectory generation for redundant manipulators based on inverse kinematics (IK) still faces some restraints, as it lacks universal IK calculation or specific trajectory generation methods that are suitable for robots with arbitrary degrees of freedom. In this article, the IK-free trajectory generation for robot manipulators is formulated as a Markov decision process and implemented by a general method based on deep reinforcement learning. First, an extensively explored and evaluated actor-critic (E3AC) algorithm that can make diverse action explorations and comprehensive evaluations is designed to solve the trajectory generation problem. Second, a dual-memory structure with expert-guided policy learning strategy is proposed to further enhance the performance of the algorithm in the early training period by additional successful experiences and performing an increasingly unbiased data sampling. Third, a fuzzy feedback reward mechanism that can directly establish a mapping from the abundant state variables to the self-tuning reward is constructed, instead of puzzling out an explicit function to feature the complex relations among the control objects. Finally, the comparative experimental results show that, the proposed approach is more efficient in algorithm convergence and reward calculation, and is more qualified for complex tasks with strong randomness.
