@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Fengkang Ying 应丰糠
+title: Fengkang Ying 
+应丰糠
 
 # Full name (for SEO)
 first_name: Fengkang
