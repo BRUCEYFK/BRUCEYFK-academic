@@ -30,7 +30,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *2023 7th International Conference on Robotics, Control and Automation (ICRCA)*
-publication_short: In *ICRCA*
+# publication_short: In *ICRCA*
 
 abstract: investigations on obstacle-avoidable robotic trajectory generation is of great significance to the secure production of ordinary machinery factories, which allows robots to work in complex environments. However, conventional collision-free trajectory generation is highly dependent on manual analysis of the environment, making the trajectory generation extremely dedicated. To solve this problem, a more intelligent obstacle-avoidable trajectory generation method based on deep reinforcement learning that can globally perceive obstacle's information and automatically generate trajectories without inverse kinematics is proposed in this paper, where a virtual system corresponding to the physical robot platform is constructed for policy learning motivated by the concept of virtual twin, and an obstacle-avoidable reward with a global perception capability is proposed. Experimental results have verified the superior performance of the proposed method.
 
