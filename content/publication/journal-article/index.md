@@ -31,7 +31,7 @@ summary: This work proposed a powerful DRL algorithm called E3AC, based on which
 
 tags:
 - Source Themes
-featured: False
+featured: True
 
 # links:
 # - name: ""
