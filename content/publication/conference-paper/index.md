@@ -1,17 +1,20 @@
 ---
-title: 'An example conference paper'
+title: 'Globally Perceived Obstacle Avoidance for Robots Based on Virtual Twin and Deep Reinforcement Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Rongxin Jiang
+  - Admin
+  - Guojing Zhang
+  - Yifei Xing
+  - Huashan Liu
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - 'Corresponding Author'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
