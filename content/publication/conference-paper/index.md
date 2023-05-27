@@ -17,7 +17,7 @@ author_notes:
   - 'Corresponding Author'
 
 date: '2023-01-05T00:00:00Z'
-doi: ''
+doi: '10.1109/ICRCA57894.2023.10087870'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
