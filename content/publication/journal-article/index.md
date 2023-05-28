@@ -30,7 +30,13 @@ abstract: Trajectory generation for redundant manipulators based on inverse kine
 summary: This work proposed a powerful DRL algorithm called E3AC, based on which an IK-free robot motion planning scheme was realized. The work also discussed an expert-guided policy learning strategy and a fuzzy feedback reward mechanism.
 
 tags:
-- Source Themes
+  - Academic
+  - Deep Reinforcement Learning
+  - Robotics
+  - Motion Planning
+  - Reward Design
+  - Efficient Policy Learning
+
 featured: True
 
 # links:
