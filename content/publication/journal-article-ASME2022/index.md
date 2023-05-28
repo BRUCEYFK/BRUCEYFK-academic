@@ -30,7 +30,13 @@ abstract: Though there are extensive works on deep reinforcement learning (DRL) 
 summary: This work implemented an IK-free trajectory planning scheme based on DRL. A nested architecture and a compound reward system were proposed to generate sequential trajectory segments for multiprocess robotic tasks. A dual-memory architecture with local-to-global strategy was introduced for efficient policy learning.
 
 tags:
-- Source Themes
+  - Academic
+  - Deep Reinforcement Learning
+  - Robotics
+  - Motion Planning
+  - Reward Design
+  - Efficient Policy Learning
+
 featured: True
 
 # links:
