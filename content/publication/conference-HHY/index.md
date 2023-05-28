@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: In *2023 42nd Chinese Control Conference (CCC)*
 # publication_short: In *CCC*
 
-abstract: 6D pose estimation from a given input image is a key technology in computer vision and robotics, which has been broadly leveraged in robot operations, autonomous driving, and augmented reality.
+abstract: 6D pose estimation from a given input image is a key technology in computer vision and robotics, which has been broadly leveraged in robot operations, autonomous driving, and augmented reality. The current mainstream methods fall into two main categories, either regressing the rotation and translation directly from the image or constructing a 2D-3D correspondence and then solving the poses indirectly via PnP.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
