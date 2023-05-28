@@ -1,7 +1,7 @@
 ---
 title: Fundamentals of Deep Reinforcement Learning and Its Applications
 
-event: External Talk
+event: Online Talk
 # event_url: https://example.org
 
 location: Online
