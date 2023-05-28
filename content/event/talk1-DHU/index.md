@@ -8,8 +8,8 @@ location: Online
 address:
   street: Guangfulin Street 2888
   city: Shanghai
-  region: 
-  postcode: 
+  region: Songjiang
+  postcode: 201620
   country: China
 
 summary: I gave a talk at Donghua University (DHU) about the foundation of DRL and its versatile application in robotic control.
