@@ -36,7 +36,11 @@ abstract: 6D pose estimation from a given input image is a key technology in com
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+  - Academic
+  - Deep Reinforcement Learning
+  - Robotics
+  - Machine Vision
 
 # Display this page in the Featured widget?
 featured: False
