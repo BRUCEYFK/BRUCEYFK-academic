@@ -1,9 +1,9 @@
 ---
 title:  Our work has won the National First Award at 23rd China Robot and Artificial Intelligence Competition (CRAIC). Cheers!🎊
-# subtitle: 
+subtitle: 
 
 # Summary for listings and search engines
-# summary: 
+summary: 
 
 # Link this post with a project
 projects: []
@@ -44,5 +44,3 @@ categories:
 ## Overview
 
 In January 2022, the 23rd China Robot and Artificial Intelligence Competition was held in Chongqing. More than 1,000 teams from more than 200 schools across China, including Tsinghua University, Harbin Institute of Technology, University of Macau and the Chinese University of Hong Kong, made the final. China Robot and Artificial Intelligence Competition, which started in 1999, is a national robot competition with a long history, a grand scale and wide influence. It has been listed in the 2020 National Subject Competition Ranking of Ordinary Institutions of Higher Learning released by China Association of Higher Education.
-
-
