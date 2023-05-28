@@ -1,5 +1,5 @@
 ---
-title: Deep Reinforcement Learning and Its Application Instances on Trajectory Generation for Manipulators
+title: Fundamentals of Deep Reinforcement Learning and Its Applications
 
 event: External Talk
 # event_url: https://example.org
@@ -12,12 +12,12 @@ address:
   postcode: 
   country: 
 
-summary: An external talk about the theory and application of DRL in robotic control.
+summary: I gave a talk about the foundation of DRL and its versatile application in robotic control.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-10-22T13:00:00Z'
+date: '2022-04-20T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
