@@ -28,8 +28,8 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *2023 3rd International Conference on Robotics and Control Engineering (RobCE 2023)*
-# publication_short: In *ICRCA*
+publication: In *2023 3rd International Conference on Robotics and Control Engineering (RobCE)*
+# publication_short: In *RobCE*
 
 abstract: When the task environment becomes complex, deep reinforcement learning (DRL) is easy to encounter the problems of gradient disappearance or explosion. To solve this problem, this paper proposes a hierarchical DRL framework consisting of task and action layers. The task layer learns interpretable representations of tasks and decision processes, and drives the action layer.The action layer learns to collaboratively accomplish complex tasks in different roles. The DRL algorithm based on this framework is tested on a redundant degree of freedom robot in obstacle avoidance motion planning tasks, and comparative experimental results prove the effectiveness and feasibility of the proposed method.
 # Summary. An optional shortened abstract.
