@@ -1,9 +1,9 @@
 ---
 title:  Our work has won the National First Award at 23rd China Robot and Artificial Intelligence Competition (CRAIC). Cheers!🎊
-subtitle: 
+subtitle: Our project includes novel calibration approach, IK-free motion planning based on DRL, efficient policy learning, reward system design, and virtual twin system.
 
 # Summary for listings and search engines
-summary: 
+summary: Our project includes novel calibration approach, IK-free motion planning based on DRL, efficient policy learning, reward system design, and virtual twin system.
 
 # Link this post with a project
 projects: []
