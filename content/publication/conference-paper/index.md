@@ -37,7 +37,12 @@ abstract: Investigations on obstacle-avoidable robotic trajectory generation is 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+  - Academic
+  - Deep Reinforcement Learning
+  - Robotics
+  - Motion Planning
+  - Obstacle Avoidance
 
 # Display this page in the Featured widget?
 featured: False
