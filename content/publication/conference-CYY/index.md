@@ -35,7 +35,11 @@ abstract: Deep reinforcement learning in maximum entropy framework is sample-eff
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+  - Academic
+  - Deep Reinforcement Learning
+  - Robotics
+  - Motion Planning
 
 # Display this page in the Featured widget?
 featured: False
