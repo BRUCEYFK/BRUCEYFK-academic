@@ -44,7 +44,7 @@ categories:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
+The invention relates to the field of human-robot integration and robot vision, in particular to an operation method of human-robot collaboration and object grasping assembly line system based on deep reinforcement learning, interaction intention recognition, and grasping pose generation.
 
 
 
