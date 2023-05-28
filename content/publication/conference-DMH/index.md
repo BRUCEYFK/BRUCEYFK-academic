@@ -36,7 +36,11 @@ abstract: Deep reinforcement learning (DRL) features powerful ability of percept
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+  - Academic
+  - Deep Reinforcement Learning
+  - Robotics
+  - Motion Planning
 
 # Display this page in the Featured widget?
 featured: False
