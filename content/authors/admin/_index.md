@@ -65,7 +65,7 @@ social:
     link: https://scholar.google.com.hk/citations?hl=zh-CN&user=4fYGbd8AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/BRUCEYFK
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E4%B8%B0%E7%B3%A0-%E5%BA%94-8143aa273/
