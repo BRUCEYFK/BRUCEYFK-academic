@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Fengkang Ying
+title: Fengkang YING
 
 # Full name (for SEO)
 first_name: Fengkang
-last_name: Ying
+last_name: YING
 
 # Status emoji
 status:
@@ -20,6 +20,12 @@ role: PhD Student of Integrative Sciences and Engineering Progamme (ISEP)
 organizations:
   - name: National University of Singapore
     url: https://www.nus.edu.sg/
+  - name: NUS Graduate School
+    url: https://nusgs.nus.edu.sg/
+  - name: Department of Mechanical Engineering
+    url: https://cde.nus.edu.sg/me/
+  - name: Advanced Robotics Centre
+    url: https://arc.nus.edu.sg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, task and motion planning, and deep reinforcement learning.
