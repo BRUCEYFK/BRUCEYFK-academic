@@ -89,7 +89,7 @@ email: ''
 highlight_name: true
 ---
 
-Fengkang Ying is a PhD student of Integrative Sciences and Engineering Progamme at National University of Singapore. Before that, he received his M.E. degree from Donghua University, Shanghai, China, in 2022, supervised by Prof. [**Huashan Liu**](https://web.dhu.edu.cn/cist/2016/0428/c20589a145690/page.htm).
+I am currently a PhD student of Integrative Sciences and Engineering Progamme (ISEP) at National University of Singapore, supervised by Prof. [**Marcelo Ang**](https://cde.nus.edu.sg/me/staff/ang-jr-marcelo-h/). I am also with the department of Mechanical engineering, and the Advanced Robotics Centre (ARC), NUS. Before that, I received his M.E. degree from Donghua University, Shanghai, China, in 2022, supervised by Prof. [**Huashan Liu**](https://web.dhu.edu.cn/cist/2016/0428/c20589a145690/page.htm).
 
-Fengkang's research interests span deep reinforcement learning, robotic task and motion planning, and dexterous manipulation. He has been working at the intersection of robotics and artificial intelligence to facilitate versatile robot tasks, with an ultimate goal to make intelligent robots actively interact and collaborate with humans. He is the recipient of multiple awards, such as National Excellent Master's Thesis Award (29 recipients in total), National First Award of China Robotics and Artificial Intelligence Competition, and so on.
+My research interests span deep reinforcement learning, robotic task and motion planning, and dexterous manipulation. I have been working at the intersection of robotics and artificial intelligence to facilitate versatile robotic tasks, with an ultimate goal to make intelligent robots actively interact and collaborate with humans. I was the recipient of multiple awards, such as National Excellent Master's Thesis Award (29 recipients in total), National First Award of China Robotics and Artificial Intelligence Competition, and so on.
 {style="text-align: justify;"}
